@@ -9,3 +9,9 @@ This repository provides a comprehensive implementation of sentiment analysis, c
 # Business Problem
 
 A company struggled with processing and analyzing movie reviews from platforms like Rotten Tomatoes. The manual review of these reviews was time-consuming and inconsistent. Marketing and content strategy teams were overwhelmed, resulting in missed opportunities to identify audience preferences and address critical issues that were affecting viewer satisfaction and content performance. Now, they have employed me to help with creating a robust algorithm that can generalize well to solve their business problem by automatically classifying reviews as positive ("fresh") or negative ("rotten").
+
+
+# Tensorboard Visualization
+  Below is the link record  of the visualization of model generalization using tensorboard
+  
+  https://www.linkedin.com/posts/patrickedosoma_datascience-machinelearning-artificialintelligence-activity-7255331353208979456-2Rsf?utm_source=share&utm_medium=member_desktop
